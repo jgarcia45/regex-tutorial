@@ -3,6 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/jgarcia45/regex-tutorial)
 
 ## Description
+Describing what and how Regular Expression is and works.
 
 ## User Story
 ```
